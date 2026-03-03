@@ -6,9 +6,6 @@
 ## Overview
 This repository supports the research on predicting building typologies (construction materials, current use, and storeys) using Google Street View imageries and Vision-Language models.
 
-**Abstract**
-[ABSTRACT]
-
 ## Workflow
 ### Building image query
 0. Download building footprints data from OSM (Notebook 0).
